@@ -1,0 +1,370 @@
+.navy-text{
+  color:#17315b;
+}
+
+.gray-text{
+  color:#7d808f;
+}
+
+.jumbotron-skew{
+    transform: skewY(-3deg);
+    transform-origin: 0 50%;
+}
+
+.jumbotron-text{
+    transform: skewY(3deg);
+    transform-origin: 0 50%;
+}
+
+.jumbotron-bg-color{
+  background-color: #038aff;
+}
+
+.nav-mt{
+    margin-top:-20px;
+}
+
+.nav-links-padding{
+  padding: 10px 0 10px 0;
+  text-align: center;
+}
+
+.nav-links a{
+  color:#FFF;
+  font-weight: 500;
+}
+
+.nav-buynow{
+  background-color: #FFF;
+  text-decoration-color: black;
+  border-radius: 5px;
+  padding: 5px!important;
+  font-size:13px;
+  margin-top:6px;
+}
+
+.get-started-button{
+  border-radius: 5px;
+  padding: 10px;
+  color: #000;
+  background: #fff;
+}
+
+.trusted-by{
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.trusted-by-icons{
+  height: 20px;
+  width:auto;
+}
+
+.add-new-btn{
+  border-radius: 5px;
+}
+
+.credit-card-form{
+  border-radius: 15px 15px 50px 15px;
+  font-size: 13px;
+}
+
+.credit-card-active-btn{
+  background: #5acba5;
+  border-radius: 5px;
+  font-size: 10px;
+  padding: 5px!important;
+}
+
+.credit-card{
+  border-radius: 10px;
+  background: #1f1246;
+}
+
+.credit-card-title-font{
+  font-size: 10px;
+  font-weight:200;
+}
+
+.credit-card-number{
+  font-size: 18px;
+  margin-top: -18px;
+}
+
+.credit-card-detail{
+  margin-top:-15px;
+}
+
+.credit-card-description{
+  font-weight: 600;
+}
+
+.credit-card-description-money{
+  font-weight: 600;
+}
+
+.credit-card-description-status{
+  color:#738090;
+  font-weight: 400;
+}
+
+.view-all-underline{
+  text-decoration-line: underline;
+  text-decoration-style: dotted;  
+}
+
+/*Tools*/
+.tools-title{
+  font-size:18px;
+}
+
+.tools-subtitle{
+  font-size:14px;
+}
+
+.tools-background{
+  background: #febd3d;
+  border-radius: 15px;
+  padding: 5px 0 5px 0;
+  font-weight: 500;
+}
+
+.content-text{
+  font-size: 16px;
+}
+
+.features-background{
+  background: #61cba9;
+  border-radius: 15px;
+  padding: 5px 0 5px 0;
+  font-weight: 500;
+}
+
+.title-pictures{
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
+.play-video-btn-left{
+  margin-left:15px;
+  margin-top: 20px;
+  background: #FFF;
+  font-size: 12px;
+  border: 1px solid #000;
+}
+
+.play-video-btn-right{
+  margin-left:240px;
+  margin-top: 20px;
+  background: #FFF;
+  font-size: 12px;
+  border: 1px solid #000;
+}
+
+.technology-background{
+  background: #038aff;
+  border-radius: 15px;
+  padding: 5px 0 5px 0;
+  font-weight: 500;
+}
+
+/*Technology*/
+.technology-case-studies-link{
+  color: #038aff;
+  text-decoration-line: underline;
+  text-decoration-style: solid; 
+  font-weight:500;
+}
+
+.tech-name-card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 220px;
+  border-radius: 5px;
+}
+
+.tech-name-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.tech-name-card-img {
+  border-radius: 5px 5px 0 0;
+}
+
+.tech-name-card-container {
+  padding: 2px 16px;
+}
+
+.tech-name-card-initial{
+  background: #febc3c;
+  color:#FFF;
+  border-radius: 50%;
+  padding:13px 15px 13px 15px;
+}
+
+.component-certified-check{
+  background: #5ccaa7;
+  color:#FFF;
+  border-radius: 50%;
+  padding:13px 15px 13px 15px;
+}
+
+.components-sub-text{
+  font-size:12px;
+  margin-right: 10px;
+}
+
+/*Website UI Kit*/
+.website-ui-kit-position{
+  margin-top: -110px;
+}
+
+.app-download-button{
+  font-size:12px;
+  color:white;
+  font-weight: 500;
+  padding:5px;
+  border-radius: 10px;
+  transition:0.3s;
+}
+
+.app-download-button:hover{
+  color:#000;
+  background:#FFF;
+  border:1px solid #000;
+  border-radius: 10px;
+  transition:0.3s;
+}
+
+.easy-to-install-background{
+  background: #febe3b;
+  border-radius: 15px;
+  padding: 5px 0 5px 0;
+  font-weight: 500;
+}
+
+/*Infinite solutions section*/
+.infinite-solution-banner-background{
+  background:#161348;
+  border-radius: 0 80px 0 80px;
+}
+
+.learn-more-btn{
+  background:#FFF;
+  padding:10px 20px;
+  border-radius: 10px;
+  color:#000;
+  transition:0.3s;
+
+}
+
+.learn-more-btn:hover{
+  background:#000;
+  color:#FFF;
+  transition:0.3s;
+  text-decoration: none;
+}
+
+/*Awards*/
+.awards-bg{
+  background: #fafbff;
+}
+
+#awards-title{
+  font-size:18px;
+  margin-left:-9px;
+}
+
+.awards-card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 160px;
+  border-radius: 5px;
+  transition:0.3s;
+}
+
+.awards-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,1);
+  opacity:0.7;
+  transition:0.3s;
+}
+
+.awards-card-img {
+  border-radius: 5px 5px 0 0;
+}
+
+.awards-card-container {
+  padding: 2px 16px;
+}
+
+.learn-more-underline{
+  border-bottom: 2px solid #161348;
+}
+
+.awards-text{
+  font-size:12px;
+  padding: 0px 15px 0px 15px;
+  font-weight: 500;
+}
+
+.card p{
+  margin:0px;
+  color:#29284a;
+  font-weight: 500;
+  font-size:15px;
+}
+
+.card-header{
+  background:#FFF!important;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  border-radius: 10px!important;
+}
+
+.card{
+  border:none;
+}
+
+.buy-now-btn{
+  background:#038aff;
+  padding:10px 30px;
+  color:#FFF;
+  border-radius: 10px; 
+  transition: 0.3s;
+}
+
+.buy-now-btn:hover{
+  opacity: 0.8;
+  transition: 0.3s;
+  color:#161348;
+  text-decoration: none;
+}
+
+.new-project-learn-more-btn{
+  background:#FFF;
+  padding:10px 30px;
+  color:#161348;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.footer-bg-color{
+  background:#161348;
+}
+
+.footer-2{
+  margin-top:-135px;
+}
+
+.footer-subtext{
+  color: #7e7f9c;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.footer-subtitle{
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 500;
+}
